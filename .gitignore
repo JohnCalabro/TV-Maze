@@ -1,0 +1,16 @@
+solution
+arrayContains.js
+arrayContains.test.js
+countValidWords.js
+countValidWords.test.js
+everyThird.js
+everyThird.test.js
+index.rst
+Makefile
+objectCompare.js
+objectCompare.test.js
+package.json
+sumLists.js
+sumLists.test.js
+tvMaze.js
+.vscode/
